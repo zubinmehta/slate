@@ -1,5 +1,5 @@
 ---
-title: API Reference
+title: zing42 API Reference
 
 language_tabs:
   - shell
@@ -19,11 +19,15 @@ search: true
 
 # Introduction
 
-Welcome to the Kittn API! You can use our API to access Kittn API endpoints, which can get information on various cats, kittens, and breeds in our database.
+Welcome to the zing42 API! You can use our API to multiple purposes but this mainly meant for the developer who wants to create commands on zing42 for public usage or their internal company usage. 
 
-We have language bindings in Shell, Ruby, and Python! You can view code examples in the dark area to the right, and you can switch the programming language of the examples with the tabs in the top right.
+A basic command reference is also included here which could be used by your own commands (more on this later). A complete list of all publicly available commands on zing42 is here (Work in progress)
 
-This example API documentation page was created with [Slate](https://github.com/tripit/slate). Feel free to edit it and use it as a base for your own API's documentation.
+Hey man wthas
+
+<!--We have language bindings in Shell, Ruby, and Python! You can view code examples in the dark area to the right, and you can switch the programming language of the examples with the tabs in the top right.-->
+
+<!--This example API documentation page was created with [Slate](https://github.com/tripit/slate). Feel free to edit it and use it as a base for your own API's documentation.-->
 
 # Authentication
 
